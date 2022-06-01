@@ -1,0 +1,2 @@
+#Игнорирование README.md
+README.md
